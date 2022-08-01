@@ -1,2 +1,4 @@
-# dash_deployed_app
-Deploying the Dash Class app
+# Dash Deployed App
+
+Deploying the Dash Class app as part of the dash tutorial
+v
